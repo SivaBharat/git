@@ -1,3 +1,6 @@
 I am a developer1
+<<<<<<< HEAD
 siva
 bharath
+=======
+>>>>>>> bffe744 (first commit)
